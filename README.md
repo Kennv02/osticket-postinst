@@ -148,7 +148,7 @@ I added the following Help Topics:
 
 To Configure Help Topics, got to:
 
-- Admin Panel -> Manage -> Help Topics 
+- Admin Panel -> Manage -> Help Topics -> Add New Help Topic 
 </p>
   
 
