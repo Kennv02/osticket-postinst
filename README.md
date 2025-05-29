@@ -36,8 +36,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Configuring roles is an essential part of the osticket system as it enables permissions for asssigning tickets,closing, editing, deleting, etc. 
-You would want to open osticket and add a new role to which you can grant access to all functions as an admin. Go to Admin Panel -> Agents -> Roles. 
-Feel free to title your new role however you may see fit but please give that admin role access to all of the functions as previuously mentioned. Following these steps would be useful for the tickets and tickets lifecycle overview.
+You would want to open osticket and add a new role to which you can grant access to all functions as an admin. Go to:
+  
+- Admin Panel -> Agents -> Roles.
+- Feel free to title your new role suited to personal preference and give admin role access to all of the functions as previuously mentioned. 
+
+Following these steps would be useful for the tickets and tickets lifecycle overview.
 </p>
 <br />
 
@@ -109,7 +113,7 @@ Creating users is essential to be able to create/submit tickets through osticket
 
 - To create a user, go to:
 - Agent Panel -> Users -> Add a user
-- Add a superficial email address and a name. In this example, I went with Ken and ken@usmail.co
+- Add a superficial email address and a name. In this example, I went with Ken and ken@usmail.com
 - Once the missing information is filled, click Add User.
 </p>
 <br />
@@ -122,6 +126,7 @@ Configuring SLAs (Service Level Agreements) is an essential portion of the ostic
 - Sev-A (Grace Period: 1 hour, Schedule 24/7)
 - Sev-B (Grace Period: 4 hours, Schedule 24/7)
 - Sev-C (Grace Period: 8 hours, Schedule Business Hours 8am-5pm)
+  
 One example above as reference. To create new SLA Plan, go to:
 
 - Admin Panel -> Manage -> SLA
