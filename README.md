@@ -146,7 +146,7 @@ I added the following Help Topics:
 - Password Reset
 - Other
 
-To Configure Help Topics, got to:
+To Configure Help Topics, go to:
 
 - Admin Panel -> Manage -> Help Topics -> Add New Help Topic 
 </p>
